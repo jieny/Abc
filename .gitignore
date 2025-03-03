@@ -1,0 +1,6 @@
+.pio
+.idea
+/node_modules
+/firmware
+
+/autoOTAConfig.json
